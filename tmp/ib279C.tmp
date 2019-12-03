@@ -1,0 +1,2 @@
+2019-11-19 11:15:38 0x45f4 Error in foreign key constraint of table `mydb`.`#sql-226c_ce`:
+Create  table `mydb`.`#sql-226c_ce` with foreign key constraint failed. Referenced table `mydb`.`users` not found in the data dictionary near ' FOREIGN KEY (`users_id`) REFERENCES `users` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION'.

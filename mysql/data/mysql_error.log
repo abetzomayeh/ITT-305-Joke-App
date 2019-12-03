@@ -1,0 +1,69 @@
+InnoDB: using atomic writes.
+2019-11-18 19:38:39 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2019-11-18 19:38:39 0 [Note] InnoDB: Uses event mutexes
+2019-11-18 19:38:39 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2019-11-18 19:38:39 0 [Note] InnoDB: Number of pools: 1
+2019-11-18 19:38:39 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2019-11-18 19:38:39 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2019-11-18 19:38:39 0 [Note] InnoDB: Completed initialization of buffer pool
+2019-11-18 19:38:40 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=300288
+2019-11-18 19:38:40 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2019-11-18 19:38:40 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2019-11-18 19:38:40 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2019-11-18 19:38:40 0 [Note] InnoDB: Setting file 'C:\Users\Cothancael\Desktop\server2\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-11-18 19:38:40 0 [Note] InnoDB: File 'C:\Users\Cothancael\Desktop\server2\mysql\data\ibtmp1' size is now 12 MB.
+2019-11-18 19:38:40 0 [Note] InnoDB: Waiting for purge to start
+2019-11-18 19:38:40 0 [Note] InnoDB: 10.4.8 started; log sequence number 300297; transaction id 171
+2019-11-18 19:38:40 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\Cothancael\Desktop\server2\mysql\data\ib_buffer_pool
+2019-11-18 19:38:40 0 [Note] Plugin 'FEEDBACK' is disabled.
+2019-11-18 19:38:41 0 [Note] Server socket created on IP: '::'.
+2019-11-18 19:38:41 0 [ERROR] Can't start server: Bind on TCP/IP port. Got error: 10048: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+2019-11-18 19:38:41 0 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+2019-11-18 19:38:41 0 [ERROR] Aborting
+InnoDB: using atomic writes.
+2019-11-18 19:39:58 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2019-11-18 19:39:58 0 [Note] InnoDB: Uses event mutexes
+2019-11-18 19:39:58 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2019-11-18 19:39:58 0 [Note] InnoDB: Number of pools: 1
+2019-11-18 19:39:58 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2019-11-18 19:39:58 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2019-11-18 19:39:58 0 [Note] InnoDB: Completed initialization of buffer pool
+2019-11-18 19:39:59 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2019-11-18 19:39:59 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2019-11-18 19:39:59 0 [Note] InnoDB: Setting file 'C:\Users\Cothancael\Desktop\server2\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-11-18 19:39:59 0 [Note] InnoDB: File 'C:\Users\Cothancael\Desktop\server2\mysql\data\ibtmp1' size is now 12 MB.
+2019-11-18 19:39:59 0 [Note] InnoDB: Waiting for purge to start
+2019-11-18 19:39:59 0 [Note] InnoDB: 10.4.8 started; log sequence number 300306; transaction id 171
+2019-11-18 19:39:59 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\Cothancael\Desktop\server2\mysql\data\ib_buffer_pool
+2019-11-18 19:39:59 0 [Note] Plugin 'FEEDBACK' is disabled.
+2019-11-18 19:39:59 0 [Note] Server socket created on IP: '::'.
+2019-11-18 19:39:59 0 [ERROR] Can't start server: Bind on TCP/IP port. Got error: 10048: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+2019-11-18 19:39:59 0 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+2019-11-18 19:39:59 0 [ERROR] Aborting
+InnoDB: using atomic writes.
+2019-11-18 19:46:02 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2019-11-18 19:46:02 0 [Note] InnoDB: Uses event mutexes
+2019-11-18 19:46:02 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2019-11-18 19:46:02 0 [Note] InnoDB: Number of pools: 1
+2019-11-18 19:46:02 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2019-11-18 19:46:02 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2019-11-18 19:46:02 0 [Note] InnoDB: Completed initialization of buffer pool
+2019-11-18 19:46:03 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2019-11-18 19:46:03 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2019-11-18 19:46:03 0 [Note] InnoDB: Setting file 'C:\Users\Cothancael\Desktop\server2\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-11-18 19:46:03 0 [Note] InnoDB: File 'C:\Users\Cothancael\Desktop\server2\mysql\data\ibtmp1' size is now 12 MB.
+2019-11-18 19:46:03 0 [Note] InnoDB: Waiting for purge to start
+2019-11-18 19:46:03 0 [Note] InnoDB: 10.4.8 started; log sequence number 300315; transaction id 171
+2019-11-18 19:46:03 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\Cothancael\Desktop\server2\mysql\data\ib_buffer_pool
+2019-11-18 19:46:03 0 [Note] Plugin 'FEEDBACK' is disabled.
+2019-11-18 19:46:04 0 [Note] Server socket created on IP: '::'.
+InnoDB: using atomic writes.
+2019-12-01 20:22:41 0 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2019-12-01 20:22:41 0 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2019-12-01 20:22:41 0 [ERROR] Plugin 'InnoDB' init function returned error.
+2019-12-01 20:22:41 0 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+2019-12-01 20:22:41 0 [Note] Plugin 'FEEDBACK' is disabled.
+2019-12-01 20:22:41 0 [ERROR] Unknown/unsupported storage engine: InnoDB
+2019-12-01 20:22:41 0 [ERROR] Aborting
