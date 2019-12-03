@@ -1,0 +1,21 @@
+8:43:41 PM  [main] 	Initializing Control Panel
+8:43:41 PM  [main] 	Windows Version:  Enterprise  64-bit
+8:43:41 PM  [main] 	XAMPP Version: 7.3.11
+8:43:41 PM  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+8:43:41 PM  [main] 	You are not running with administrator rights! This will work for
+8:43:41 PM  [main] 	most application stuff but whenever you do something with services
+8:43:41 PM  [main] 	there will be a security dialogue or things will break! So think 
+8:43:41 PM  [main] 	about running this application with administrator rights!
+8:43:41 PM  [main] 	XAMPP Installation Directory: "c:\users\cothancael\desktop\server2\"
+8:43:41 PM  [main] 	Checking for prerequisites
+8:43:41 PM  [main] 	All prerequisites found
+8:43:41 PM  [main] 	Initializing Modules
+8:43:41 PM  [Apache] 	XAMPP Apache is already running on port 80
+8:43:41 PM  [Apache] 	XAMPP Apache is already running on port 443
+8:43:41 PM  [mysql] 	XAMPP MySQL is already running on port 3306
+8:43:41 PM  [main] 	Starting Check-Timer
+8:43:41 PM  [main] 	Control Panel Ready
+8:48:41 PM  [main] 	Executing "services.msc"
+8:51:59 PM  [main] 	Deinitializing Modules
+8:51:59 PM  [main] 	Deinitializing Control Panel
+
